@@ -1,0 +1,25 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="style.css" />
+  <title>Lindsey Spitzley</title>
+<h3>Works</h3>
+  	<body>
+		<ul>
+			<li>This is a fictional story that I wrote for a contest. Children's stories that won
+			were put into the Anthology of Short Stories by Young Americans. This story was approved
+			and published in the 2007 edition.</li>
+			<li>My very first year of college I took an Integrated Arts & Humanities class. One of the
+			main things I learned about my writing from my professor was that I needed to pick one idea,
+			stay focused on that idea.This piece I feel exemplifies the things I learned in
+			her class.</li> 
+			<li>Also my first year of college I took an English class. In that class I learned how to
+			analyse texts, form an opinion on my analysis, and prove my opinion with textual
+			evidence. This is one of my favorite pieces I did for this class.</li>
+		</ul>
+		<footer>
+				<div a href="http://www.linkedin.com/pub/lindsey-spitzley/36/947/ba7"/a>Linkedin</div>
+				<div a href="mailto:spitzl46@gmail.com"/a>Message me at Gmail</div>
+		</footer>
+    </body>
+    </html>
