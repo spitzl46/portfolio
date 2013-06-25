@@ -27,14 +27,7 @@ div {
     font-family:Apple Chancery, Garamond, Lucida Caligraphy;
 }
 
-#email{
-	float:right;
-	margin-right: 5px;
-	padding-top: 5px;
-	font-size: 16px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
-}
+
 
 h4 {
 	margin-left: 5px;
@@ -102,7 +95,7 @@ background-image: linear-gradient(top, #ffffff, #f39184);
 	height: 50px;
 	background-color: #668284;
 	clear: both;
-	font-family: Verdana, sans-serif;
+	font-family: Lucida Sans Typewriter, Verdana, sans-serif;
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
