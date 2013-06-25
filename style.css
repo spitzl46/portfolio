@@ -10,16 +10,21 @@ div {
 	height: 60px;
 	background-color: #f39184;
 	margin-bottom: 10px;
-    font-family:Lucida Calipgraphy,Apple Chancery, Garamond
 }
 
 #name {
 	float:fixed;
+    width 96%
+    height:55px
 	margin-left: 5px;
 	padding-top: 5px;
 	font-size: 20px;
-	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	font-family: Lucida Calipgraphy,Apple Chancery, Garamond;
+	color: #000000;
+}
+
+#body {
+    font-family:Apple Chancery, Garamond, Lucida Caligraphy;
 }
 
 #email{
@@ -50,7 +55,7 @@ h4 {
 }
 
 li {
-	list-style-type: square;
+	list-style-type: round;
 }
 
 a:hover {
@@ -90,6 +95,7 @@ background-image: linear-gradient(top, #ffffff, #f39184);
 	margin-bottom: 10px;
     border:solid 2px;
 }
+
 
 #footer {
 	position: relative;
