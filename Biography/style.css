@@ -1,0 +1,117 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #D1FC93;
+    border:solid 2px;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:center;
+	margin-left: 415px;
+	font-size: 30px;
+	color: #000000;
+    font-family: Lucida Calligraphy,Apple Chancery, Garamond;
+}
+
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+    padding:top; 15px;
+	background-color: filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#d1fc93');
+/*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+/*Element must have a height (not auto)*/
+/*All filters must be placed together*/
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#d1fc93')";
+/*Element must have a height (not auto)*/
+/*All filters must be placed together*/
+background-image: -moz-linear-gradient(top, #ffffff, #d1fc93);
+background-image: -ms-linear-gradient(top, #ffffff, #d1fc93);
+background-image: -o-linear-gradient(top, #ffffff, #d1fc93);
+background-image: -webkit-gradient(linear, center top, center bottom, from(#ffffff), to(#d1fc93));
+background-image: -webkit-linear-gradient(top, #ffffff, #d1fc93);
+background-image: linear-gradient(top, #ffffff, #d1fc93);
+/*--IE9 DOES NOT SUPPORT CSS3 GRADIENT BACKGROUNDS--*/
+	margin-bottom: 10px;
+    border:solid 2px
+    font-size:18px;
+    
+}
+
+#home{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#bio{
+    padding-bottom:20px;
+}
+
+#works{
+    padding-bottom:20px;
+}
+
+#extra{
+    padding-bottom:20px;
+}
+
+
+.right {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 88%;
+	height: 400px;
+	background-color: #ffffff;
+	margin-bottom: 10px;
+    font-family:Apple Chancery, Garamond, Lucida Caligraphy;
+}
+
+#footer {
+	position: relative;
+	height: 40px;
+	clear: both;
+	font-family: Lucida Sans Typewriter, Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+    border-top: 2px solid;
+    
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
