@@ -99,11 +99,10 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 
 
 #footer {
-	position: relative;
 	height: 50px;
 	background-color: #668284;
 	clear: both;
-	font-family: Lucida Sans Typewriter, Verdana, sans-serif;
+	font-family: "Lucida Sans Typewriter", Verdana, sans-serif;
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
