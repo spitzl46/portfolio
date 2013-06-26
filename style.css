@@ -40,14 +40,7 @@ h4 {
     
 #image{
     float:left;
-}
 
-li {
-	list-style-type: round;
-}
-
-a:hover {
-	font-weight: bold;
 }
 
 #left {
