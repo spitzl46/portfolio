@@ -8,12 +8,11 @@ div {
 	z-index: 1;
 	position:fixed;
 	width: 97.5%;
-	margin-top: -20px;
 	height: 60px;
 	margin-bottom: 10px;
 	border:solid 2px;
 	float:fixed;
-	padding-top: 5px;
+	padding: 10px;
 	font-size: 32px;
 	font-family: "Lucida Calligraphy","Apple Chancery", Garamond;
 	text-align:center;
