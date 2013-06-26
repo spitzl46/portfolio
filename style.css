@@ -106,7 +106,7 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 }
 
 
-#footer a, a:visited {
+#footer a, #footer a:visited {
 	color:#ffffff;
 }
 
