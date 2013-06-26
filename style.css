@@ -10,8 +10,16 @@ div {
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #f39184;
 	margin-bottom: 10px;
+	border:solid 2px;
+}
+
+#header .home {
+	background-color: #f39184;
+}
+
+#header .bio {
+	background-color: #D1FC93;
 }
 
 #name {
@@ -67,28 +75,34 @@ a:hover {
 	margin-bottom: 10px;   
 }
 
-.right {
-	 position: relative;
+#right {
+	position: relative;
     float: right;
     margin-top: 50px;
     width: 10%;
 	height: 400px;
-	background-color:filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184');
-/*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
-/*Element must have a height (not auto)*/
-/*All filters must be placed together*/
--ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184')";
-/*Element must have a height (not auto)*/
-/*All filters must be placed together*/
+	margin-bottom: 10px;
+    border:solid 2px;
+}
+
+#right .home{
+	 
 background-image: -moz-linear-gradient(top, #ffffff, #f39184);
 background-image: -ms-linear-gradient(top, #ffffff, #f39184);
 background-image: -o-linear-gradient(top, #ffffff, #f39184);
 background-image: -webkit-gradient(linear, center top, center bottom, from(#ffffff), to(#f39184));
 background-image: -webkit-linear-gradient(top, #ffffff, #f39184);
 background-image: linear-gradient(top, #ffffff, #f39184);
-/*--IE9 DOES NOT SUPPORT CSS3 GRADIENT BACKGROUNDS--*/
-	margin-bottom: 10px;
-    border:solid 2px;
+}
+
+#right .bio {
+	 
+background-image: -moz-linear-gradient(top, #ffffff, #d1fc93);
+background-image: -ms-linear-gradient(top, #ffffff, #d1fc93);
+background-image: -o-linear-gradient(top, #ffffff, #d1fc93);
+background-image: -webkit-gradient(linear, center top, center bottom, from(#ffffff), to(#d1fc93));
+background-image: -webkit-linear-gradient(top, #ffffff, #d1fc93);
+background-image: linear-gradient(top, #ffffff, #d1fc93);
 }
 
 
