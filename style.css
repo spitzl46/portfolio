@@ -14,11 +14,11 @@ div {
 	border:solid 2px;
 }
 
-#header .home {
+.home #header {
 	background-color: #f39184;
 }
 
-#header .bio {
+.bio #header {
 	background-color: #D1FC93;
 }
 
