@@ -85,8 +85,14 @@ a:hover {
     border:solid 2px;
 }
 
-#right .home{
-	 
+#right .home {
+position: relative;
+    float: right;
+    margin-top: 50px;
+    width: 10%;
+	height: 400px;
+	margin-bottom: 10px;
+    border:solid 2px;	 
 background-image: -moz-linear-gradient(top, #ffffff, #f39184);
 background-image: -ms-linear-gradient(top, #ffffff, #f39184);
 background-image: -o-linear-gradient(top, #ffffff, #f39184);
