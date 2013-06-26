@@ -106,6 +106,6 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 }
 
 
-#footer div a:hover {
+#footer a:hover {
 	color: #000000;
 }
