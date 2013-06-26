@@ -7,8 +7,8 @@ div {
 #header {
 	z-index: 1;
 	position:fixed;
-	width: 97.5%;
-	height: 60px;
+	width: 960px;
+	height: 100px;
 	margin-bottom: 10px;
 	border:solid 2px;
 	float:fixed;
