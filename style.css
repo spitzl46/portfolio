@@ -99,6 +99,7 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 
 
 #footer {
+	padding-top:15px;
 	height: 50px;
 	background-color: #c0c0c0;
 	clear: both;
@@ -111,10 +112,7 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 	margin:auto;
 }
 
-#footer a, #footer a:visited {
-	color: #FFFFFF;
-}
 
-#footer a:hover {
+#footer div a:hover {
 	color: #000000;
 }
