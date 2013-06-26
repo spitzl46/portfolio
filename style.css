@@ -6,9 +6,9 @@ div {
 
 #header {
 	z-index: 1;
-	position:fixed;
+	display:block;
+	margin:auto;
 	width: 960px;
-	margin-bottom: 10px;
 	border:solid 2px;
 	font-size: 32px;
 	font-family: "Lucida Calligraphy","Apple Chancery", Garamond;
@@ -114,6 +114,9 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
+	width:960px;
+	display:block;
+	margin:auto;
 }
 
 #footer p {
