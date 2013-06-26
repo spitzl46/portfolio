@@ -75,6 +75,7 @@ a:hover {
 	height: 400px;
 	margin-bottom: 10px;
     border:solid 2px;
+    list-style:none;
 }
 
 #right .home {
