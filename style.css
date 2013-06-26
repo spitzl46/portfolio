@@ -37,13 +37,6 @@ h4 {
 	font-family: Apple Chancery, Verdana, sans-serif;
 }
 
-.right p {
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: -10px;
-	font-family: Garamond, serif;
-	color: #000000;
-    }
     
 #image{
     float:left;
@@ -114,7 +107,7 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
-	width:960px;
+	width: 960px;
 	display:block;
 	margin:auto;
 }
