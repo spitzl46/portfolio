@@ -91,7 +91,7 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 }
 
 
-#footer, #footer a, #footer a:visited {
+#footer {
 	padding-top:15px;
 	height: 50px;
 	background-color: #c0c0c0;
@@ -105,6 +105,10 @@ background-image: linear-gradient(top, #ffffff, #d1fc93);
 	margin:auto;
 }
 
+#footer > a, #footer > a:hover {
+	color:#ffffff;
+	}
+	
 #footer a:hover {
 	color: #000000;
 }
