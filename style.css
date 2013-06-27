@@ -22,7 +22,7 @@
 	border-radius: 5px;
 }
 
-.landing body{
+.home body{
 background-color:filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184');
 -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184')";
 background-image: -moz-linear-gradient(top, #ffffff, #f39184);
