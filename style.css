@@ -96,20 +96,20 @@ background-image: linear-gradient(top, #ffffff, #f39184);
 /*HEADERS GO BELOW*/
 
 .home {
-	color:#f39184;
+	background-color::#f39184;
 	}
 
 .bio {
-	color:#D1FC93;
+	background-color:#D1FC93;
 }
 .works {
-	color:#FFCA8E;
+	background-color:#FFCA8E;
 }
 .extra {
-	color:#D1FC93;
+	background-color:#D1FC93;
 }
 .resume {
-	color:#bo4824;
+	background-color:#bo4824;
 }
 
 
