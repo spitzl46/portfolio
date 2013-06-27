@@ -44,6 +44,42 @@
 	margin-top:0;
 	margin-bottom:10px;
 	}
+.worksnav {
+	margin-top:-6px;
+	}
+.worksnav li {
+	border-radius: 5px;
+	border: 2px solid;
+	height: 20px;
+	width: 150px;
+	padding: 10px;
+	margin-top:0;
+	margin-bottom:10px;
+	}
+.extranav {
+	margin-top:-6px;
+	}
+.extranav li {
+	border-radius: 5px;
+	border: 2px solid;
+	height: 20px;
+	width: 150px;
+	padding: 10px;
+	margin-top:0;
+	margin-bottom:10px;
+	}
+.resumenav {
+	margin-top:-6px;
+	}
+.resumenav li {
+	border-radius: 5px;
+	border: 2px solid;
+	height: 20px;
+	width: 150px;
+	padding: 10px;
+	margin-top:0;
+	margin-bottom:10px;
+	}	
 /*HEADERS GO BELOW*/
 
 .home {
