@@ -5,7 +5,7 @@
 #main {
 	width:960px;
 	margin:auto;
-	}
+	}	
 
 }	
 #header {
@@ -22,7 +22,7 @@
 	border-radius: 5px;
 }
 
-#body .home {
+.home body{
 background-color:filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184');
 -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184')";
 background-image: -moz-linear-gradient(top, #ffffff, #f39184);
@@ -32,7 +32,6 @@ background-image: -webkit-gradient(linear, center top, center bottom, from(#ffff
 background-image: -webkit-linear-gradient(top, #ffffff, #f39184);
 background-image: linear-gradient(top, #ffffff, #f39184);
 }
-
 .homenav {
 	margin-top:-6px;
 	}
