@@ -89,6 +89,15 @@
 .bio {
 	background-color: #D1FC93;
 }
+.works {
+	background-color: #FFCA8E;
+}
+.extra {
+	background-color: #D1FC93;
+}
+.resume {
+	background-color: #B04824;
+}
 
 
 #body {
@@ -97,10 +106,10 @@
 
 
 
-h4 {
+h3 {
 	margin-left: 5px;
 	margin-bottom: 15px;
-	font-family: Apple Chancery, Verdana, sans-serif;
+	font-family: "Apple Chancery", Verdana, sans-serif;
 }
 
    
