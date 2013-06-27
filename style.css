@@ -106,7 +106,7 @@
 #body {
     font-family:"Apple Chancery", Garamond, "Lucida Calligraphy";
 }
-.home{
+#main .home{
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184');
 -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr = '#ffffff', endColorstr = '#f39184')";
 background-image: -moz-linear-gradient(top, #ffffff, #f39184);
