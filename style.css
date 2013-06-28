@@ -89,6 +89,12 @@ background-image: linear-gradient(top, #ffffff, #b04824);
 	margin-bottom:10px;
 	text-align:center;
 	}
+.homenav > a, #.homenav > a:hover {
+	color:#ffffff
+}
+.homenav a:hover {
+	color:000000
+}			
 .bionav {
 	margin-top:-6px;
 	}
