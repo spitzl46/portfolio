@@ -180,6 +180,13 @@ h3 {
     float:left;
 	margin-left:10px;
 	}
+.work img{
+ 	display: block;
+    float:left;
+    height:194.5px;
+ 	width:179.5px;
+ 	padding-right:15px;
+ 	}
 	
 #left {
     display: block;
