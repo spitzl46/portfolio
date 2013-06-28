@@ -192,6 +192,9 @@ h3 {
     float:left;
 	margin-left:10px;
 	}
+.work li{
+	padding: 15px 0px 15px 0px;
+	}	
 	
 #left {
     display: block;
