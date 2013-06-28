@@ -45,6 +45,7 @@
 	padding: 10px;
 	margin-top:0;
 	margin-bottom:10px;
+	text-align:center;
 	}
 .worksnav {
 	margin-top:-6px;
@@ -57,6 +58,7 @@
 	padding: 10px;
 	margin-top:0;
 	margin-bottom:10px;
+	text-align:center;
 	}
 .extranav {
 	margin-top:-6px;
@@ -69,6 +71,7 @@
 	padding: 10px;
 	margin-top:0;
 	margin-bottom:10px;
+	text-align:center;
 	}
 .resumenav {
 	margin-top:-6px;
@@ -81,6 +84,7 @@
 	padding: 10px;
 	margin-top:0;
 	margin-bottom:10px;
+	text-align:center;
 	}	
 /*HEADERS GO BELOW*/
 
