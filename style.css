@@ -89,12 +89,7 @@ background-image: linear-gradient(top, #ffffff, #b04824);
 	margin-bottom:10px;
 	text-align:center;
 	}
-.homenav > a, #.homenav > a:hover {
-	color:#ffffff
-}
-.homenav a:hover {
-	color:000000
-}			
+
 .bionav {
 	margin-top:-6px;
 	}
@@ -215,6 +210,14 @@ h3 {
 #right li a {
 	text-decoration:none;
 	}
+#right li a > a, #right li a > a:hover {
+	color:#ffffff;
+	}
+	
+#right li a:hover {
+	color: #000000;
+}
+	
 	
 /*Footer Starts Below*/
 
