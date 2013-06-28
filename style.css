@@ -187,6 +187,11 @@ h3 {
  	width:179px;
  	padding-right:15px;
  	}
+ .work {
+	display: block;
+    float:left;
+	margin-left:10px;
+	}
 	
 #left {
     display: block;
