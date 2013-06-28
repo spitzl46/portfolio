@@ -195,6 +195,9 @@ h3 {
 .work li{
 	padding-top:15px;
 	}	
+.work li li{
+	padding-top:15px;
+	}	
 	
 #left {
     display: block;
